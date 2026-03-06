@@ -33,4 +33,9 @@ Download the `Termux:API` app from F-Droid (or Play Store).
 **Step 2: Install the Package**
 Link the Termux API app to your terminal by running this command:
 ```bash
+pkg update -y & upgrade -y
+
 pkg install termux-api -y
+
+
+
